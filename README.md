@@ -1,2 +1,3 @@
 # pds-proj2
-project 2 for cmu 67364 s20
+
+one of the tsv files was too big for me to upload, but you can find it here: https://www.imdb.com/interfaces/ - it's called title.basics.tsv. Otherwise, run NB as normal.
